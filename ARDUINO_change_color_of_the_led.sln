@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARDUINO_change_color_of_the_led", "ARDUINO_change_color_of_the_led\ARDUINO_change_color_of_the_led.csproj", "{9B270B44-FF0F-42EE-8ACF-CE1298E3F884}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B270B44-FF0F-42EE-8ACF-CE1298E3F884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B270B44-FF0F-42EE-8ACF-CE1298E3F884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B270B44-FF0F-42EE-8ACF-CE1298E3F884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B270B44-FF0F-42EE-8ACF-CE1298E3F884}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0801F5DC-254E-47D7-B496-65416C4BB992}
+	EndGlobalSection
+EndGlobal
